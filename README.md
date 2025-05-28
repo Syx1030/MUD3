@@ -22,7 +22,7 @@ We select 22 keywords strongly associated with depression to search for relevant
 
 
 ## Non-depressed
-The collection of non-depressed users is much simpler. We retrieve videos using keywords related to daily activities，and each keyword can retrieve approximately 150-190 related videos. 
+The collection of non-depressed users is much simpler. We retrieve videos using keywords related to daily activities，and each keyword can retrieve approximately 150-190 related videos. Since non-depressed users are not subject to the same high exclusion rate as depressed users, we use the following 5 keywords for retrieval. These keywords are selected to maximize the number of lifestyle videos with visible faces.
 | Keyword                  |
 |--------------------------|
 | daily vlog        |
