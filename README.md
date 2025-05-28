@@ -54,4 +54,4 @@ For videos retrieved using depression-related keywords, two annotators classify 
 | postpartum depression    | promotional and clickbait accounts                           |
 | pregnancy depression    | accounts focused on interviews                             |
 | consultation, hospitalization for depression  |     |
-| treatment for depression (TMS, SSRI)    |                      |
+| treatment for depression (e.g. TMS, SSRI)    |                      |
