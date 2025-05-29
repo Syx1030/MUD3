@@ -58,3 +58,8 @@ Our classification criteria, validated by psychiatric experts, ensure that indiv
 | pregnancy depression    | accounts focused on interviews                             |
 | consultation, hospitalization for depression  | recovered from depression   |
 | treatment for depression (e.g. TMS, SSRI)    | faceless accounts        |
+
+
+# Ethical Statement
+This research adheres to the highest ethical standards and guidelines. We utilize publicly available video data from social media platforms, ensuring that all privacy concerns are carefully addressed. To protect user confidentiality, the dataset includes only non-identifiable features, specifically facial landmark coordinates and low-level vocal descriptors, with no personal data that can reconstruct original videos. We do not directly involve participants in this research, and all data collection processes follow ethical protocols to avoid any exploitation or distress to individuals. Additionally, this study receives approval from the Institutional Review Board (IRB) from our institution, affirming our commitment to ethical research practices. Our research design considers the potential implications of depression detection technologies, promoting responsible use and ensuring that findings contribute positively to mental health awareness and intervention strategies. 
+
