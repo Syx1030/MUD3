@@ -8,7 +8,12 @@ This repository contains the dataset and supplementary materials for the paper "
 ## MUD3 Dataset Download
 
 **➡️ [Click here to download the MUD3 dataset](https://example.com/dataset-download-link)**
-
+```
+MUD3 Dataset/
+├── dep_feat.pkl
+├── nondep_feat.pkl
+└── labels.csv
+```
 
 ## Keywords for Retrieving Depressed and Non-depressed Users
 ### Depressed
