@@ -3,7 +3,7 @@
 This repository contains the dataset and supplementary materials for the paper "Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams," submitted to ACM MM.
 
 <p align="center">
-  <img src="figure1.png" alt="figure1" width="366" height="432">  </p>
+  <img src="figure.png" alt="figure" width="366" height="432">  </p>
 
 # Keywords for Retrieving Depressed and Non-depressed Users
 ## Depressed
