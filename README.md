@@ -5,10 +5,13 @@ This repository contains the dataset and supplementary materials for the paper "
 <p align="center">
   <img src="figure.png" alt="figure" width="366" height="432">  </p>
 
-[MUD3 Dataset](https://www.openai.com)
+## MUD3 Dataset Download
 
-# Keywords for Retrieving Depressed and Non-depressed Users
-## Depressed
+**➡️ [Click here to download the MUD3 dataset](https://example.com/dataset-download-link)**
+
+
+## Keywords for Retrieving Depressed and Non-depressed Users
+### Depressed
 We select 22 keywords strongly associated with depression to search for relevant videos on TikTok，and each keyword can retrieve approximately 150-190 related videos.
 
 | Keyword                  |              Keyword            |          Keyword         |
@@ -23,7 +26,7 @@ We select 22 keywords strongly associated with depression to search for relevant
 | struggle with depression |     |     |
 
 
-## Non-depressed
+### Non-depressed
 The collection of non-depressed users is much simpler. We retrieve videos using keywords related to daily activities，and each keyword can retrieve approximately 150-190 related videos. Since non-depressed users are not subject to the same high exclusion rate as depressed users, we use the following 5 keywords for retrieval. These keywords are selected to maximize the number of lifestyle videos with visible faces.
 | Keyword                  |
 |:--------------------:|
@@ -33,7 +36,8 @@ The collection of non-depressed users is much simpler. We retrieve videos using 
 | talking vlog        |
 | day of vlog        |
 
-# Classification Criteria 
+
+## Classification Criteria 
 For videos retrieved using depression-related keywords, two annotators classify the users who post the videos into **depressed** and **non-depressed**. Depressed users are identified strictly based on self-reported diagnoses, we develop detailed classification criteria and illustrative examples to ensure that the determination of depressed users is strictly in accordance with the requirements.
 
  - Since our goal is to construct a dataset for long-term analysis of users' depressive states, it is essential to exclude users experiencing short-term depressive moods rather than actual clinical depression. Therefore, users with temporary depressive states, such as seasonal depression or premenstrual depression, are excluded from further consideration. 
@@ -62,6 +66,6 @@ Our classification criteria, validated by psychiatric experts, ensure that indiv
 | treatment for depression (e.g. TMS, SSRI)    | faceless accounts        |
 
 
-# Ethical Statement
+## Ethical Statement
 This research adheres to the highest ethical standards and guidelines. We utilize publicly available video data from social media platforms, ensuring that all privacy concerns are carefully addressed. To protect user confidentiality, the dataset includes only non-identifiable features, specifically facial landmark coordinates and low-level vocal descriptors, with no personal data that can reconstruct original videos. We do not directly involve participants in this research, and all data collection processes follow ethical protocols to avoid any exploitation or distress to individuals. Additionally, this study receives approval from the Institutional Review Board (IRB) from our institution, affirming our commitment to ethical research practices. Our research design considers the potential implications of depression detection technologies, promoting responsible use and ensuring that findings contribute positively to mental health awareness and intervention strategies. 
 
