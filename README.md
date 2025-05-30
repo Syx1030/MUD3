@@ -7,7 +7,7 @@ This repository contains the dataset and supplementary materials for the paper "
 
 ## MUD3 Dataset Download
 
-**➡️ [Click here to download the MUD3 dataset](https://example.com/dataset-download-link)**
+**➡️ [Click here to download the MUD3 dataset](https://drive.google.com/drive/folders/19q0Oi-rOJPvowZHhIINuIVUq-p_CABdz?usp=drive_link)**
 ```
 MUD3 Dataset/
 ├── dep_feat.pkl
