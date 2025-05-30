@@ -5,6 +5,8 @@ This repository contains the dataset and supplementary materials for the paper "
 <p align="center">
   <img src="figure.png" alt="figure" width="366" height="432">  </p>
 
+[MUD3 Dataset](https://www.openai.com)
+
 # Keywords for Retrieving Depressed and Non-depressed Users
 ## Depressed
 We select 22 keywords strongly associated with depression to search for relevant videos on TikTok，and each keyword can retrieve approximately 150-190 related videos.
