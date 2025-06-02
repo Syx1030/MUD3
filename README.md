@@ -14,6 +14,9 @@ MUD3 Dataset/
 ├── nondep_feat.pkl
 └── labels.csv
 ```
+The files dep_feat.pkl and nondep_feat.pkl store the extracted features of depressed and non-depressed users’ videos, respectively. The file labels.csv provides the ids, labels (1 for depressed, 0 for non-depressed), anonymized names, and dataset splits (training, validation, and test). 
+
+All video features of each user are retrieved using the user's anonymized name. The videos are ordered chronologically from earliest to latest. Each video feature is represented as a matrix of shape (t, 161), where t denotes the video length and 161 corresponds to the concatenation of 136-dimensional facial features and 25-dimensional acoustic features.
 
 ## Keywords for Retrieving Depressed and Non-depressed Users
 ### Depressed
@@ -29,6 +32,7 @@ We select 22 keywords strongly associated with depression to search for relevant
 | depression patient       | fighting depression             | overcoming depression    |
 | depression story         | living with depression          | severe depression        |
 | struggle with depression |     |     |
+
 
 
 ### Non-depressed
