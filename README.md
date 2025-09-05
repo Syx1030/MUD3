@@ -1,6 +1,6 @@
 # Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams
 
-This repository contains the dataset and supplementary materials for the paper "Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams," submitted to ACM MM.
+This repository contains the dataset and supplementary materials for the paper "Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams," accepted by ACM MM 2025.
 
 <p align="center">
   <img src="figure.png" alt="figure" width="366" height="432">  </p>
