@@ -1,6 +1,6 @@
 # Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams
 
-This repository contains the dataset and supplementary materials for the paper "Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams," accepted by ACM MM 2025.
+This repository contains the dataset and supplementary materials for the paper "Beyond Snapshots: A Multimodal User-Level Dataset for Depression Detection in Dynamic Social Media Streams," accepted by ACM MM 2025.   **➡️ [Click here to view the paper](https://dl.acm.org/doi/10.1145/3746027.3758236)**
 
 <p align="center">
   <img src="figure.png" alt="figure" width="366" height="432">  </p>
@@ -8,6 +8,8 @@ This repository contains the dataset and supplementary materials for the paper "
 ## MUD3 Dataset Download
 
 **➡️ [Click here to download the MUD3 dataset](https://drive.google.com/drive/folders/19q0Oi-rOJPvowZHhIINuIVUq-p_CABdz?usp=drive_link)**
+
+To obtain the MUD3 dataset, you may need to submit an application. Please send your identity information and intended use to yxsun@ir.hit.edu.cn.
 ```
 MUD3 Dataset/
 ├── dep_feat.pkl
