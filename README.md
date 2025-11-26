@@ -8,9 +8,8 @@ This repository contains the dataset and supplementary materials for the paper "
 
 ## MUD3 Dataset Download
 
+To obtain the MUD3 dataset, you may need to submit an application. Please provide your identity information, affiliation, and purpose of usage when applying for access.
 **➡️ [Click here to download the MUD3 dataset](https://drive.google.com/drive/folders/19q0Oi-rOJPvowZHhIINuIVUq-p_CABdz?usp=drive_link)**
-
-To obtain the MUD3 dataset, you may need to submit an application. Please send your identity information and intended use to yxsun@ir.hit.edu.cn.
 ```
 MUD3 Dataset/
 ├── dep_feat.pkl
