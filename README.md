@@ -7,6 +7,7 @@ This repository contains the dataset and supplementary materials for the paper "
   <img src="figure.png" alt="figure" width="366" height="432">  </p>
 
 ## MUD3 Dataset Download
+如您想进一步参与CCAC2026——多模态抑郁症早期检测挑战赛，请确保填写报名表[CCAC2026——多模态抑郁早期检测挑战赛报名表](https://docs.qq.com/form/page/DWE5NSXZoZXRBU3Bu)，并扫描填写后出现的二维码进群。
 
 To obtain the MUD3 dataset, you may need to submit an application. Please provide your identity information, affiliation, and purpose of usage when applying for access.
 **➡️ [Click here to apply for the MUD3 dataset](https://drive.google.com/drive/folders/19q0Oi-rOJPvowZHhIINuIVUq-p_CABdz?usp=drive_link)**
