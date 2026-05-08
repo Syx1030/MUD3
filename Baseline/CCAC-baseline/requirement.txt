@@ -1,0 +1,10 @@
+# PyTorch CUDA wheel 不在普通 PyPI 镜像中，需要额外指定 PyTorch 官方 cu121 源。
+# CUDA 12.2 驱动环境下使用 cu121 wheel 通常兼容；本项目不需要本地编译 CUDA 扩展。
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch==2.5.1+cu121
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+PyYAML==6.0.2
+tqdm==4.66.5
